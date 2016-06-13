@@ -28,8 +28,8 @@
 我修改时没有发现。导致出现了错位的问题。
 
 问题反馈可以直接在 **Feedback** 提交，
-也可以在 [pancao/baidulite](https://github.com/pancao/baidulite) 处 Pull request，
-也可以在专栏 [伎俩-知乎专栏]（https://zhuanlan.zhihu.com/p/20557231） 处评论。
+也可以在 [pancao/baidulite](https://github.com/pancao/baidulite) 处 Pull request。
+也可以在专栏 [伎俩-知乎专栏](https://zhuanlan.zhihu.com/p/20557231) 处评论。
 
 
 
@@ -60,11 +60,12 @@
 
 **2016/04/07 V0.3.2**
 
-- 修复登陆后搜索框边框的问题(感谢 discountry 提供的代码);
+- 修复登陆后搜索框边框的问题
+> 感谢 discountry 提供的代码
 - 减少 animation-delay 的时间;
 - 学习好累。
-- 双列显示可以同时安装 https://userstyles.org/styles/29969/theme 这个样式。
-- 高分屏可以同时安装 https://userstyles.org/styles/127217/theme （百度三栏）这个样式
+- 双列显示可以同时安装 [清爽百度](https://userstyles.org/styles/29969/theme) 这个样式；
+- 高分屏可以同时安装 [百度三栏](https://userstyles.org/styles/127217/theme) 这个样式。
 
 **2016/02/22 V0.3.1**
 
