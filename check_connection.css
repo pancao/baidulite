@@ -1,0 +1,32 @@
+/*========= Connection Check ========= */
+
+html:after {
+    content: "非常好，你已经连上了中国互联网。";
+    position: absolute;
+    padding-left: 23px;
+    padding-top: 30px;
+    font-family: "Microsoft Yahei UI Light", Segoe UI, Helvetica;
+    font-size: 17px;
+    top: 10px;
+    left: 10px;
+    background-color: #fff;
+    height: 58px;
+    width: 600px;
+    text-align: -webkit-center;
+    border-radius: 2px;
+    box-shadow: rgba(0, 0, 0, 0.117647) 0px 1px 6px, rgba(0, 0, 0, 0.117647) 0px 1px 4px;
+}
+
+html:before {
+    background-image: url(http://7xt3k7.com1.z0.glb.clouddn.com/info.svg);
+    content: "";
+    padding: 15px;
+    top: 37px;
+    left: 164px;
+    position: absolute;
+    z-index: 100;
+}
+
+body {
+    display: none;
+}

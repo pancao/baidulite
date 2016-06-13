@@ -1,0 +1,9 @@
+/*========= Adblock ========= */
+
+div[style*="visibility:visible"] {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0;
+    height: 0px;
+    overflow: hidden;
+}

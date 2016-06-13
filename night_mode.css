@@ -1,0 +1,292 @@
+/*========= Night Mode ========= */
+
+a {
+               color: #B0BEC5;
+}
+#ent_sug {
+               color: #B0BEC5;
+}
+img:hover {
+               border-bottom: 0px !important;
+}
+h3 a:hover {
+               border-bottom: #B0BEC5 1.2px solid;
+}
+.c-showurl {
+               color: #BFEBBF;
+}
+.op-se-listen-recommend:hover {
+               border-bottom: #B0BEC5 1.2px solid;
+}
+.c-gap-bottom-small a:hover {
+               border-bottom: #B0BEC5 1.2px solid;
+}
+.c-row a:hover {
+               border-bottom: #B0BEC5 1.2px solid;
+}
+#rs a:hover {
+               border-bottom: #B0BEC5 1.2px solid;
+}
+.hint_toprq_tips_items a:hover {
+               border-bottom: #B0BEC5 1.2px solid;
+}
+.c:hover {
+               border-bottom: #B0BEC5 1.2px solid;
+}
+em {
+               color: #FF8A80;
+}
+.m {
+               color: #607D8B !important;
+               transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
+}
+.m:hover {
+               border-bottom: #607D8B 1.2px solid !important;
+               opacity: 0.7;
+               transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
+}
+.hint_toprq_icon {
+               color: #78909C !important;
+}
+.search_tool_conter span {
+               color: #78909C !important;
+}
+.search_tool {
+               color: #78909C !important;
+}
+/*页面背景*/
+
+body {
+               background-color: #455A64;
+               color: #78909C;
+}
+#content_left .leftBlock {
+               border-bottom: 1px solid #556E79 !important;
+}
+/*输入框*/
+
+.s_ipt_wr {
+               background-color: #FFF !important;
+               background: #FFF;
+               opacity: 0.2;
+}
+.s_ipt_wr:hover {
+               background-color: #FFF !important;
+               background: #FFF;
+}
+.ipthover {
+               background-color: #FFF !important;
+}
+.iptfocus {
+               background-color: #fff !important;
+               opacity: 0.8;
+}
+.bdsug {
+               background-color: #B0BEC5;
+}
+/*按钮*/
+
+.s_btn {
+               background-color: rgba(0, 0, 0, 0);
+}
+/*头部*/
+
+#head {
+               background-color: #37474F;
+               border-bottom: 0px;
+}
+#foot {
+               background-color: #37474F;
+               border-top: 0px;
+}
+#help {
+               background-color: #37474F;
+               border-top: 0px;
+}
+#help a {
+               color: #546E7A;
+               transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
+}
+#help a:hover {
+               color: #546E7A;
+               opacity: 0.7;
+               transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
+}
+.c-border {
+               background-color: rgba(176, 190, 197, 0.09);
+}
+/*分类标签*/
+
+.c-tabs-nav {
+               background-color: #627D8A;
+}
+.c-tabs-nav .c-tabs-nav-btn {
+               background-color: #627D8A;
+}
+.c-tabs-nav-selected {
+               border-bottom: #ECEFF1 2px solid !important;
+               background-color: #78909C !important;
+               color: #37474F !important;
+}
+.c-tabs-nav-li {
+               color: #B0BEC5 !important;
+}
+.c-btn {
+               background-color: #627D8A;
+               border: none;
+               color: #B0BEC5 !important;
+               font-family: Helvetica, "Microsoft Yahei UI";
+}
+.c-table th,
+.c-table td {
+               border-bottom: 1px #556E79 solid;
+               color: #B0BEC5;
+               font-family: Helvetica, "Microsoft Yahei UI";
+}
+/*页码*/
+
+#page a {
+               background: #455A64;
+               color: #B0BEC5;
+}
+#page a:hover {
+               background-color: #546E7A !important;
+}
+#page a .pc:hover {
+               background-color: #546E7A;
+}
+#page strong {
+               background-color: #37474F !important;
+               color: #CFD8DC;
+}
+#page strong .pc {
+               background-color: #37474F !important;
+}
+.pc:hover {
+               background-color: #546E7A;
+}
+#s_tab b {
+               border-bottom: 3px #CFD8DC solid;
+               color: #CFD8DC;
+}
+#s_tab {
+               border-bottom: #455A64 1px solid;
+               background: #41545D !important;
+}
+#s_tab a {
+               color: #B0BEC5;
+               transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
+}
+#s_tab a:hover {
+               color: #B0BEC5;
+               opacity: 0.7;
+               transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
+}
+.bdpfmenu a:hover {
+               background-color: #4879BD !important;
+}
+.setpref:hover {
+               background-color: #4879BD !important;
+}
+#u .lb {
+               background-color: #78909C;
+}
+#u .lb:hover {
+               background-color: #8EA3AC;
+}
+#u .lb:active {
+               background-color: #7DA0D0;
+}
+#bg {
+               background-color: #FFF !important;
+               background: #FFF;
+}
+#u1 a.lb {
+               background-color: #78909C;
+}
+#u1 a.lb:hover {
+               background-color: #8EA3AC;
+}
+#u1 a.lb:active {
+               background-color: #7DA0D0;
+}
+#u_sp .s_bri {
+               background-color: #B71C1C;
+}
+#s_username_top {
+               background-color: #455A64;
+}
+#s_username_top span {
+               color: #90A4AE;
+}
+.s-user-set-menu a:hover {
+               background-color: #4879BD !important;
+}
+#user {
+               background-color: #455A64;
+}
+#u a {
+               color: #90A4AE;
+}
+.msg-setting-btn {
+               background-color: #4879BD !important;
+}
+.no-use {
+               background-color: #E5E5E5 !important;
+}
+.pass-text-input {
+               border-bottom: #e0e0e0 2px solid !important;
+               border-left: #fff 0px solid !important;
+               border-right: #fff 0px solid !important;
+               border-top: #fff 0px solid !important;
+}
+.pass-text-input-focus {
+               border-bottom: #4879BD 2px solid !important;
+               border-left: #fff 0px solid !important;
+               border-right: #fff 0px solid !important;
+               border-top: #fff 0px solid !important;
+}
+.tang-pass-pop-login-color-blue .pass-button {
+               background-color: #4879BD;
+}
+.tang-pass-pop-login-color-blue .pass-button:hover {
+               background-color: #618CC7;
+}
+#lg {
+               opacity: 0.55;
+}
+#result_logo {
+               opacity: 0.7;
+}
+/* icons*/
+
+#lg {
+               background-image: url(http://7xt3k7.com2.z0.glb.clouddn.com/bdlogo.svg);
+}
+.s_btn {
+               background-image: url(http://7xt3k7.com2.z0.glb.clouddn.com/sbai.svg) !important;
+}
+.s_btn_wr {
+               background-image: url(http://7xt3k7.com2.z0.glb.clouddn.com/sbai.svg) !important;
+}
+.c-icon-tieba {
+               background-image: url(http://7xt3k7.com2.z0.glb.clouddn.com/tieba.svg);
+}
+#u .pf {
+               background-image: url(http://7xt3k7.com2.z0.glb.clouddn.com/pfbai.svg);
+}
+#u .lb {
+               background-image: url(http://7xt3k7.com2.z0.glb.clouddn.com/log.svg);
+}
+#u1 a.pf {
+               background-image: url(http://7xt3k7.com2.z0.glb.clouddn.com/pfbai.svg);
+}
+#u1 a.bri {
+               background-image: url(http://7xt3k7.com2.z0.glb.clouddn.com/app.svg);
+}
+#s_usersetting_top {
+               background-image: url(http://7xt3k7.com2.z0.glb.clouddn.com/pfbai.svg);
+}
+#imsg {
+               background-image: url(http://7xt3k7.com2.z0.glb.clouddn.com/msgbai.svg);
+}

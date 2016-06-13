@@ -1,0 +1,253 @@
+/*========= Light Mode ========= */
+
+a {
+               color: #4879BD;
+}
+
+h3 a:hover {
+               border-bottom: #4879BD 1.2px solid;
+}
+
+.c-showurl {
+               color: #4CAF50;
+}
+
+.op-se-listen-recommend:hover {
+               border-bottom: #4879BD 1.2px solid;
+}
+
+.c-gap-bottom-small a:hover {
+               border-bottom: #4879BD 1.2px solid;
+}
+.c-row a:hover {
+               border-bottom: #4879BD 1.2px solid;
+}
+#rs a:hover {
+               border-bottom: #4879BD 1.2px solid;
+}
+.hint_toprq_tips_items a:hover {
+               border-bottom: #4879BD 1.2px solid;
+}
+.c:hover {
+               border-bottom: #4879BD 1.2px solid;
+}
+
+em {
+               color: #EA4335;
+}
+
+
+/*页面背景*/
+body {
+               background-color: #F7F7F7;
+}
+
+
+/*输入框*/
+.s_ipt_wr {
+               background-color: #FFF !important;               
+               background: #FFF;            
+}
+
+.s_ipt_wr:hover {
+               background-color: #FFF !important;
+               background: #FFF;
+}
+
+.ipthover {
+               background-color: #FFF !important;
+}
+
+.iptfocus {
+               background-color: #fff !important;
+}
+
+
+/*按钮*/
+.s_btn {
+               background-color: rgba(0, 0, 0, 0);
+}
+
+
+/*头部*/
+#head {
+               background-color: #f1f1f1;
+}
+
+.c-border{
+	           background-color: #fff;
+}
+
+
+/*分类标签*/
+.c-tabs-nav {
+               background-color: #EEEEEE;
+}
+
+.c-tabs-nav-selected {
+               border-bottom: #F44336 2px solid !important;
+	           background-color: #2196F3 !important;
+               color: #fff !important;
+}
+
+
+/*页码*/
+#page a{
+	           background: #fff;
+	           color: #424242;
+}
+
+#page a:hover{
+               background-color: #e0e0e0 !important;
+}
+
+#page a .pc:hover {
+               background-color: #e0e0e0;
+}
+
+#page strong {
+               background-color: #4285F4 !important;
+               color: #fff;
+}
+
+#page strong .pc {
+               background-color: #4285F4 !important;
+}
+
+.pc:hover {
+               background-color: #e0e0e0;
+}
+
+#s_tab b {
+               border-bottom: 3px #4879BD solid;
+               color: #4879BD;
+}
+
+#s_tab {
+               border-bottom: #e0e0e0 1px solid;
+}
+
+.bdpfmenu a:hover {
+               background-color: #4879BD !important;
+}
+
+.setpref:hover {
+               background-color: #4879BD !important;
+}
+
+#u .lb {
+               background-color: #4879BD;
+}
+
+#u .lb:hover {
+               background-color: #618CC7;
+}
+
+#u .lb:active {
+               background-color: #7DA0D0;
+}
+
+#bg {
+               background-color: #FFF !important;
+               background: #FFF;
+}
+
+#u1 a.lb {
+               background-color: #4879BD;
+}
+
+#u1 a.lb:hover {
+               background-color: #618CC7;
+}
+
+#u1 a.lb:active {
+               background-color: #7DA0D0;
+}
+
+#u_sp .s_bri {
+               background-color: #F44336;
+}
+
+#s_username_top {
+               background-color: #e0e0e0;
+}
+
+.s-user-set-menu a:hover {
+               background-color: #4879BD !important;
+}
+
+#user {
+               background-color: #e0e0e0;
+}
+
+.msg-setting-btn {
+               background-color: #4879BD !important;
+}
+.no-use {
+               background-color: #E5E5E5 !important;
+}
+
+.pass-text-input {
+               border-bottom: #e0e0e0 2px solid !important;
+               border-left: #fff 0px solid !important;
+               border-right: #fff 0px solid !important;
+               border-top: #fff 0px solid !important;
+}
+
+.pass-text-input-focus {
+               border-bottom: #4879BD 2px solid !important;
+               border-left: #fff 0px solid !important;
+               border-right: #fff 0px solid !important;
+               border-top: #fff 0px solid !important;
+}              
+
+.tang-pass-pop-login-color-blue .pass-button {
+               background-color: #4879BD;
+}
+.tang-pass-pop-login-color-blue .pass-button:hover {
+               background-color: #618CC7;
+}
+
+
+/* icons*/
+#lg {
+               background-image: url(http://7xt3k7.com2.z0.glb.clouddn.com/bdlogo.svg);
+}
+
+.s_btn {
+               background-image: url(http://7xt3k7.com2.z0.glb.clouddn.com/s.svg) !important;
+}
+
+.s_btn_wr {
+               background-image: url(http://7xt3k7.com2.z0.glb.clouddn.com/s.svg) !important;
+
+}
+
+.c-icon-tieba {
+               background-image: url(http://7xt3k7.com2.z0.glb.clouddn.com/tieba.svg);
+}
+
+#u .pf {
+               background-image: url(http://7xt3k7.com2.z0.glb.clouddn.com/pf.svg);
+
+}
+
+#u .lb {
+               background-image: url(http://7xt3k7.com2.z0.glb.clouddn.com/log.svg);
+}
+
+#u1 a.pf {
+               background-image: url(http://7xt3k7.com2.z0.glb.clouddn.com/pf.svg);
+}
+
+#u1 a.bri {
+               background-image: url(http://7xt3k7.com2.z0.glb.clouddn.com/app.svg);
+}
+
+#s_usersetting_top {
+               background-image: url(http://7xt3k7.com2.z0.glb.clouddn.com/pf.svg);
+}
+
+#imsg {
+               background-image: url(http://7xt3k7.com2.z0.glb.clouddn.com/msg.svg);
+}
