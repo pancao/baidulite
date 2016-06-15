@@ -1380,12 +1380,12 @@ a[soft_id] {
 .s-skin-hasbg .btn_wr {
     width: 35px;
 }
-.iptfocus {
+/*.iptfocus {
     box-shadow: none;
 }
 .soutu-btn {
     display: none;
-}
+}*/
 #s_usersetting_top {
     margin-top:-7px;
 }
