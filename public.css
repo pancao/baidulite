@@ -260,7 +260,10 @@ em {
                margin-top: auto;
 }
 #s_lg_img {
-               display: none;
+    display: none !important;
+}
+#s_lg_img_new {
+    display: none !important;
 }
 .s_ipt_wr {
                border: none;
@@ -924,7 +927,10 @@ em {
                border-right: 0px solid #fff !important;
 }
 #s_lg_img {
-               display: none;
+    display: none;
+}
+#s_lg_img_new {
+    display: none;    
 }
 #form {
                -webkit-animation-duration: 1s;
